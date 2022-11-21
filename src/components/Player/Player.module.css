@@ -1,3 +1,7 @@
 .root {
     @apply p-4
 }
+
+.container {
+    @apply flex w-full items-center;
+}
